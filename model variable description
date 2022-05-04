@@ -1,0 +1,8 @@
+cars.txt system indicates the price of used cars with other variables . 
+price of (used) cars in €1000 
+age in months
+milage in in 1000km
+inspect - months to next inspection
+extras1 - Air bag system present(1) or absent (0)
+extras2 - sliding roof present(1) or absent 
+
